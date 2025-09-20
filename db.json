@@ -1,0 +1,180 @@
+{
+  "books": [
+    {
+      "id": "2",
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "genre": "Science",
+      "year": 1988,
+      "status": "Issued"
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1949,
+      "status": "Available"
+    },
+    {
+      "id": "4",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "year": 1960,
+      "status": "Issued"
+    },
+    {
+      "id": "6",
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "genre": "Non-fiction",
+      "year": 2011,
+      "status": "Issued"
+    },
+    {
+      "id": "7",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1937,
+      "status": "Available"
+    },
+    {
+      "id": "8",
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "genre": "Biography",
+      "year": 1947,
+      "status": "Available"
+    },
+    {
+      "id": "9",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Adventure",
+      "year": 1988,
+      "status": "Issued"
+    },
+    {
+      "id": "10",
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "genre": "Philosophy",
+      "year": "500 BC",
+      "status": "Available"
+    },
+    {
+      "id": "11",
+      "title": "The Shining",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "year": 1977,
+      "status": "Available"
+    },
+    {
+      "id": "12",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "year": 1813,
+      "status": "Issued"
+    },
+    {
+      "id": "13",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "year": 1851,
+      "status": "Available"
+    },
+    {
+      "id": "14",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Post-apocalyptic",
+      "year": 2006,
+      "status": "Issued"
+    },
+    {
+      "id": "15",
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian",
+      "year": 2008,
+      "status": "Available"
+    },
+    {
+      "id": "16",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Science Fiction",
+      "year": 1818,
+      "status": "Available"
+    },
+    {
+      "id": "17",
+      "title": "The Godfather",
+      "author": "Mario Puzo",
+      "genre": "Crime",
+      "year": 1969,
+      "status": "Issued"
+    },
+    {
+      "id": "18",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Dystopian",
+      "year": 1932,
+      "status": "Available"
+    },
+    {
+      "id": "19",
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "genre": "Thriller",
+      "year": 2015,
+      "status": "Available"
+    },
+    {
+      "id": "20",
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Philosophical",
+      "year": 1880,
+      "status": "Issued"
+    },
+    {
+      "id": "9070",
+      "title": "111",
+      "author": "Anne Frank",
+      "genre": "Fiction",
+      "year": "1222",
+      "status": "Available"
+    },
+    {
+      "id": "fdcf",
+      "title": "text",
+      "author": "valmiki",
+      "genre": "Fiction",
+      "year": "1333",
+      "status": "Available"
+    },
+    {
+      "id": "b2e4",
+      "title": "ramayan",
+      "author": "valmiki",
+      "genre": "Fiction",
+      "year": "2001",
+      "status": "Issued"
+    },
+    {
+      "id": "b7a4",
+      "title": "bvv",
+      "author": "bvc",
+      "genre": "Science",
+      "year": "2025",
+      "status": "Available"
+    }
+  ]
+}
